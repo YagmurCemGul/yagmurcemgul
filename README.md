@@ -13,6 +13,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YagmurCemGul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YagmurCemGul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
@@ -22,6 +24,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0">
@@ -36,6 +40,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/snake.svg" alt="Snake animation" />
 
