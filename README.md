@@ -3,7 +3,7 @@
 
 ## Github Activities
 
-<img src="https://raw.githubusercontent.com/YagmurCemGul/yagmurcemgul/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/snake.svg" alt="Snake animation" />
 
 ## Contact Me
 
