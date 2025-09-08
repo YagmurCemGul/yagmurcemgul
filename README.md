@@ -34,6 +34,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yagmurcemgul.yagmurcemgul&"  />
 </div>
 
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=yagmurcemgul" alt="trophy" />
+
+## Music
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11137949739&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11137949739&redirect=true)
+
 ### My Activities
 
 <div align="center" style="width: 100%">
@@ -48,16 +56,5 @@
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/yagmurcemgul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=yagmurcemgul" alt="trophy" />
-
-
-
-## Music
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11137949739&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11137949739&redirect=true)
-
 
 
