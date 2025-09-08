@@ -1,23 +1,4 @@
-# Hello 👋, I'm Yağmur Cem Gül
-### Game Developer
-
-Strategic Project Manager turned Creative Technologist building playful Unity games and practical Next.js / Python tools. I love shipping zero-to-one prototypes that look good, work fast, and teach me something new along the way.
-
-🔭 I’m currently working on: polishing my Next.js portfolio, a Unity 3D FPS (URP), and small Python utilities (converters, calculators).
-
-👯 I’m looking to collaborate on: indie Unity games (2D/3D), Next.js component libraries, and data-driven marketing/SEO tools.
-
-🤝 I’m looking for help with: feedback on game feel (movement/aiming), URP/shader optimizations, and improving my open-source Python GUIs.
-
-🌱 I’m currently learning: advanced C# patterns for Unity, URP/shaders, and Three.js for interactive web scenes.
-
-💬 Ask me about: shipping MVPs end-to-end, Agile workflows, Unity input/interaction systems, and building cinematic UI with MUI/Redux on Next.js.
-
-⚡ Fun fact: I build both games and the tools that market them—weekend prototypes are my happy place.
-
-Tech: Unity (C#), URP, ShaderLab • TypeScript, React, Next.js, MUI, Redux Toolkit • Python (tkinter, PyQt, requests, BeautifulSoup, Pillow)
-
-Selected repos: MyPortfolio (Next.js), bricks-breaker-game (JS), csv-to-json-converter (Python), basic-3d-car-game (HTML), PDF-to-DOCX-Converter-with-GUI (Python), notepad (Python), plus a 3D FPS prototype in Unity.
+![yagmurcemgul](https://socialify.git.ci/YagmurCemGul/yagmurcemgul/image?custom_description=I+build+small%2C+joyful+Unity+games+%2B+helpful+dev+tools.+Your+coffee+%3D+assets%2C+hosting%2C+and+time+to+ship+more+open-source+goodies.+Early+builds+%26+credits+for+supporters.+Thank+you%21+%E2%98%95%EF%B8%8F&custom_language=GitHub&description=1&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Fcdn.brandfetch.io%2FidEc0EPR9J%2Ftheme%2Fdark%2Fsymbol.svg%3Fc%3D1dxbfHSJFAPEGdCLU4o5B&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 ## Contact Me
 <p><a href="www.linkedin.com/in/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://yagmurcemgul.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://medium.com/@yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://forem.com/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://tiktok.com/@yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="https://www.youtube.com/@rispeacebell" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://instagram.com/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
