@@ -63,7 +63,7 @@
 
 ## Music
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11137949739&unique={true|1|on|yes})
+![Recently Playing!](https://spotify-recently-played-readme.vercel.app/api?user=11137949739)
 
 
 ## Profile Views
