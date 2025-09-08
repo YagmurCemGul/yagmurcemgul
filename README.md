@@ -3,8 +3,6 @@
 
 ## GitHub Activities
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/pacman-contribution-graph.svg">
@@ -16,14 +14,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YagmurCemGul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YagmurCemGul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=YagmurCemGul&locale=en&mode=daily&theme=vue&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=YagmurCemGul&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=YagmurCemGul&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YagmurCemGul&radius=16&theme=github-light&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YagmurCemGul&radius=16&theme=github-light&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0">
@@ -42,7 +38,6 @@
 <img src="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 ## Contact Me
 
