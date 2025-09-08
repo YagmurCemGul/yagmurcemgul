@@ -63,7 +63,7 @@
 
 ## Music
 
-[![Now Playing](https://your-vercel-app.vercel.app/api?theme=default)](https://open.spotify.com/user/11137949739)
+![Recetnly Playing](https://spotify-recently-played-readme.vercel.app/api?user=11137949739)
 
 
 ## Profile Views
