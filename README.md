@@ -53,9 +53,13 @@
 
 ## My Activities
 
-<a target="_blank" href="https://github-readme-medium-card.vercel.app/?username=yagmurcemgul&limit=3">
-  <img src="https://github-readme-medium-card.vercel.app/?username=yagmurcemgul&limit=3" alt="Medium posts"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 ## Music
