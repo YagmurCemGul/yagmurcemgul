@@ -41,11 +41,13 @@
 
 ## GitHub Activity Graph
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ## My Activities
 
@@ -63,7 +65,9 @@
 
 ## Music
 
+
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11137949739&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11137949739&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+
 
 ## Profile Views
 
