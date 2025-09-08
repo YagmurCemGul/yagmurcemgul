@@ -53,17 +53,10 @@
 
 ## My Activities
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/2" alt="Medium post 3"  />
-  </a>
-</div>
+<a target="_blank" href="https://github-readme-medium-card.vercel.app/?username=yagmurcemgul&limit=3">
+  <img src="https://github-readme-medium-card.vercel.app/?username=yagmurcemgul&limit=3" alt="Medium posts"/>
+</a>
+
 
 ## Music
 
