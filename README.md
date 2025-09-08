@@ -1,5 +1,7 @@
 ![yagmurcemgul](https://socialify.git.ci/YagmurCemGul/yagmurcemgul/image?custom_description=I+build+small%2C+joyful+Unity+games+%2B+helpful+dev+tools.+Your+coffee+%3D+assets%2C+hosting%2C+and+time+to+ship+more+open-source+goodies.+Early+builds+%26+credits+for+supporters.+Thank+you%21+%E2%98%95%EF%B8%8F&custom_language=GitHub&description=1&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Fcdn.brandfetch.io%2FidEc0EPR9J%2Ftheme%2Fdark%2Fsymbol.svg%3Fc%3D1dxbfHSJFAPEGdCLU4o5B&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
+<img src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/snake.svg" alt="Snake animation" />
+
 ## Contact Me
 <p><a href="www.linkedin.com/in/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://yagmurcemgul.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://medium.com/@yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://forem.com/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://tiktok.com/@yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="https://www.youtube.com/@rispeacebell" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://instagram.com/yagmurcemgul" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
@@ -36,4 +38,34 @@
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yagmurcemgul&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
+</picture>
+
+## My Activities
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yagmurcemgul/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+## Music
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+## Profile Views
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yagmurcemgul.yagmurcemgul&"  />
+</div>
