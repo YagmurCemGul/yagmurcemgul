@@ -1,13 +1,30 @@
 ![yagmurcemgul](https://socialify.git.ci/YagmurCemGul/yagmurcemgul/image?custom_description=I+build+small%2C+joyful+Unity+games+%2B+helpful+dev+tools.+Your+coffee+%3D+assets%2C+hosting%2C+and+time+to+ship+more+open-source+goodies.+Early+builds+%26+credits+for+supporters.+Thank+you%21+%E2%98%95%EF%B8%8F&custom_language=GitHub&description=1&font=Rokkitt&language=1&logo=https%3A%2F%2Fcdn.brandfetch.io%2FidEc0EPR9J%2Ftheme%2Fdark%2Fsymbol.svg%3Fc%3D1dxbfHSJFAPEGdCLU4o5B&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto)
 
 
-## Github Activities
+### Github Activities
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg?v=2">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/pacman-contribution-graph.svg">
 </picture>
+
+### My Activities
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@y/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@y/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@y/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@y/1" alt="Medium post 2"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yagmurcemgul/yagmurcemgul/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ## Contact Me
@@ -46,17 +63,6 @@
 ## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=yagmurcemgul" alt="trophy" />
-
-## My Activities
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@y/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@y/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@y/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@y/1" alt="Medium post 2"  />
-  </a>
-</div>
 
 
 
