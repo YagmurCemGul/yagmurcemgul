@@ -29,7 +29,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurcemgul&theme=default" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/yagmurcemgul/count.svg?" alt="visitors count" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yagmurcemgul.yagmurcemgul&"  />
+</div>
 
 ## Support Me
 
@@ -68,8 +70,4 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11137949739&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11137949739&redirect=true)
 
 
-## Profile Views
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yagmurcemgul.yagmurcemgul&"  />
-</div>
