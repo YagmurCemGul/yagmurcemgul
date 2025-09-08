@@ -28,7 +28,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurcemgul&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurcemgul&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YagmurCemGul&theme=default" alt="GitHub Streak" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yagmurcemgul.yagmurcemgul&"  />
