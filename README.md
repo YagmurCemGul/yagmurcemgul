@@ -64,7 +64,9 @@
 ## Music
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11137949739&count=5" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/11137949739">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11137949739&count=5&width=700&unique=true" alt="Spotify recently played" />
+  </a>
 </div>
 
 ## Profile Views
