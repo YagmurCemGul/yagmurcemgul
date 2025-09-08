@@ -3,7 +3,47 @@
 
 ## GitHub Activities
 
-<img src="https://raw.githubusercontent.com/YagmurCemGul/yagmurcemgul/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YagmurCemGul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YagmurCemGul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=YagmurCemGul&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=YagmurCemGul&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YagmurCemGul&radius=16&theme=github-light&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/snake.svg" alt="Snake animation" />
 
 ## Contact Me
 
@@ -22,44 +62,9 @@
 <img src="https://cdn.brandfetch.io/idEc0EPR9J/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="unity" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yagmurcemgul&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurcemgul&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YagmurCemGul&theme=default" alt="GitHub Streak" />
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yagmurcemgul.yagmurcemgul&"  />
-</div>
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=yagmurcemgul" alt="trophy" />
-
-## GitHub Pacman
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagmurCemGul/yagmurcemgul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagmurCemGul/yagmurcemgul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YagmurCemGul/yagmurcemgul/output/pacman-contribution-graph.svg">
-</picture>
-
 ## Music
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11137949739&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11137949739&redirect=true)
-
-### My Activities
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@y/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@y/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@y/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@y/1" alt="Medium post 2"  />
-  </a>
-</div>
 
 ## Support Me
 
