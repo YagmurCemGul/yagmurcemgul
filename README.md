@@ -27,13 +27,13 @@
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0" alt="Medium post 1"  />
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/0" alt=""  />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/1" alt="Medium post 2"  />
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/1" alt=""  />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/2" alt="Medium post 3"  />
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@7019727855a/2" alt=""  />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YagmurCemGul/YagmurCemGul/output/snake.svg" alt="" />
 
 ###
 
@@ -68,6 +68,6 @@
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/yagmurcemgul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+<a href="https://www.buymeacoffee.com/yagmurcemgul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a>
 
 
